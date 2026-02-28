@@ -5,28 +5,28 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nareshyadav20" alt="nareshyadav20" /></a> </p>
 
-- 🔭 I’m currently working on Project [Fake Review Detector](github.com/nareshyadav20/spam-review-detector)
+- 🔭 I’m currently working on Project [Fake Review Detector](https://github.com/nareshyadav20/spam-review-detector)
 
 - 🌱 I’m currently learning **I am a Computer Science and Data Science student with a strong interest in data analytics, machine learning, and building solutions that simplify decision-making. I enjoy working with Python, SQL, and analytical tools to clean, analyze, and visualize data in a meaningful way. I continuously work on improving my technical skills and expanding my exposure to real-world data challenges. I am passionate about learning, solving problems, and contributing to impactful projects. Currently seeking opportunities in Data Analytics, Data Science, and ML where I can apply my skills, learn from experienced professionals, and grow in a dynamic environment.**
 
-- 👯 I’m looking to collaborate on [Employee Attribution System](github.com/nareshyadav20/employee-attribution-system)
+- 👯 I’m looking to collaborate on [Employee Attribution System](https://github.com/nareshyadav20/employee-attribution-system)
 
-- 🤝 I’m Completed one of the project [Sign Language detection](github.com/nareshyadav20/sign-language-detection)
+- 🤝 I’m Completed one of the project [Sign Language detection](https://github.com/nareshyadav20/sign-language-detection)
 
-- 👨‍💻 All of my projects are available at [preview--naresh-yadav.lovable.app/](preview--naresh-yadav.lovable.app/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/naresh-yadav-/](https://www.linkedin.com/in/naresh-yadav-/)
 
 - 💬 Ask me about **Fresher ask in Data Analyst | Data enthusiast skilled in Python, SQL, and R.**
 
 - 📫 How to reach me **panganareshyadav24@gmail.com**
 
-- 📄 Know about my experiences [lingering-water-564.linkyhost.com/](lingering-water-564.linkyhost.com/)
+- 📄 Know about my experiences [https://lingering-water-564.linkyhost.com](https://lingering-water-564.linkyhost.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/naresh-yadav-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/naresh-yadav-/" height="30" width="40" /></a>
-<a href="https://kaggle.com/www.kaggle.com/panganaresh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="www.kaggle.com/panganaresh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/naresh-yadav-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/naresh-yadav-/" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/panganaresh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/panganaresh" height="30" width="40" /></a>
 <a href="https://instagram.com/its_me_naresh_yadav__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_me_naresh_yadav__" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/www.youtube.com/@nareshyadav-y4x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/@nareshyadav-y4x" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@nareshyadav-y4x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@nareshyadav-y4x" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/500060" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="500060" height="30" width="40" /></a>
 </p>
 
