@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi 👋, I'm Panga Naresh</h1>
 
 <h3 align="center">
@@ -178,6 +178,233 @@ Machine Learning + NLP
 </tr>
 
 </table>
+```html
+# 🏆 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🏨 Livora Hostel Hub</h3>
+
+<p align="center">
+<b>Full-Stack Hostel Management System (MERN)</b>
+</p>
+
+<p>
+
+🔹 Built separate <b>Owner</b> and <b>Tenant</b> portals with role-based access control using JWT Authentication.
+
+🔹 Implemented modules for:
+
+• Building Management
+
+• Floor Management
+
+• Room Management
+
+• Bed Management
+
+• Tenant Profile Management
+
+• Booking & Occupancy Tracking
+
+🔹 Designed responsive React.js interfaces and secure Node.js/Express.js REST APIs with MongoDB.
+
+🔹 Deployed on Vercel to digitize hostel workflows and improve operational efficiency.
+
+</p>
+
+<b>🚀 Live Links</b>
+
+<br>
+
+🔗 Tenant Portal
+
+https://livora-hostel-hub-tenant.vercel.app
+
+<br><br>
+
+🔗 Owner Portal
+
+https://hostel-hub-owner.vercel.app
+
+<br><br>
+
+<b>⚙️ Stack</b>
+
+<br>
+
+`MongoDB`
+`Express.js`
+`React.js`
+`Node.js`
+`JWT`
+`Vercel`
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🤖 Spam Review Detection</h3>
+
+<p align="center">
+
+<b>Machine Learning + NLP Project</b>
+
+</p>
+
+<p>
+
+🔹 Built an ML model to detect fake/spam reviews from e-commerce platforms.
+
+🔹 Used:
+
+• TF-IDF Feature Extraction
+
+• Word2Vec Embeddings
+
+• Text Classification
+
+🔹 Performed:
+
+• Tokenization
+
+• Stop-word Removal
+
+• Text Cleaning
+
+• Feature Engineering
+
+🔹 Evaluated model accuracy and precision metrics.
+
+</p>
+
+<b>⚙️ Stack</b>
+
+<br>
+
+`Python`
+
+`Scikit-Learn`
+
+`NLP`
+
+`SQL`
+
+`TF-IDF`
+
+`Word2Vec`
+
+<br><br>
+
+🔗 Repository
+
+https://github.com/nareshyadav20/spam-review-detector
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🚌 Smart Bus Pass System</h3>
+
+<p align="center">
+
+<b>Full Stack Web Application</b>
+
+</p>
+
+<p>
+
+🔹 Developed a web application to digitize the bus pass process.
+
+🔹 Replaced physical bus cards with a secure digital solution.
+
+🔹 Implemented:
+
+• User Registration
+
+• Login Authentication
+
+• Bus Pass Generation
+
+• Online Renewal
+
+• Database Management
+
+🔹 Improved accessibility and reduced manual paperwork.
+
+</p>
+
+<b>⚙️ Stack</b>
+
+<br>
+
+`HTML`
+
+`CSS`
+
+`JavaScript`
+
+`Python`
+
+`SQL`
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🖐️ Sign Language Detection</h3>
+
+<p align="center">
+
+<b>Real-Time Sign Language Recognition System</b>
+
+</p>
+
+<p>
+
+🔹 Developed a computer vision application for real-time sign language recognition.
+
+🔹 Trained deep learning models using TensorFlow.
+
+🔹 Used OpenCV for image processing and hand gesture detection.
+
+🔹 Improved communication accessibility through AI.
+
+</p>
+
+<b>⚙️ Stack</b>
+
+<br>
+
+`Python`
+
+`TensorFlow`
+
+`OpenCV`
+
+`Deep Learning`
+
+<br><br>
+
+🔗 Repository
+
+https://github.com/nareshyadav20/sign-language-detection
+
+</td>
+
+</tr>
+
+</table>
+```
+
 
 ---
 
