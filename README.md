@@ -471,7 +471,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=nareshyadav2
 
 📧 **Email:** panganareshyadav24@gmail.com
 
-🌐 **Portfolio:** https://naresh-yadav.lovable.app
+🌐 **Portfolio:** https://portfolio-swart-five-6qy38zwrqn.vercel.app/
 
 💻 **GitHub:** https://github.com/nareshyadav20
 
