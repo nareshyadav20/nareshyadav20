@@ -11,7 +11,7 @@
 
 <p align="center">
 
-<a href="https://naresh-yadav.lovable.app/">
+<a href="https://portfolio-swart-five-6qy38zwrqn.vercel.app/">
 <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-blueviolet?style=for-the-badge"/>
 </a>
 
@@ -87,7 +87,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <p align="center">
 
-<a href="https://naresh-yadav.lovable.app">
+<a href="https://portfolio-swart-five-6qy38zwrqn.vercel.app/">
 
 <img src="https://img.shields.io/badge/Visit_Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 
